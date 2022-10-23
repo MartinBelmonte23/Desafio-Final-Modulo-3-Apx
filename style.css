@@ -72,13 +72,13 @@
     font-size: 48px;
 }
 
-.foto-pablo{
+.foto-martin{
    width: 318px;
     height: 300px;
     margin: 0 30px;  
 }
 @media (min-width: 800px) and (orientation: landscape){
-    .foto-pablo{
+    .foto-martin{
      
         width: 435px;
         height: 395px;
@@ -87,7 +87,7 @@
     }
 }
 @media (min-width: 800px) and (orientation: landscape){
-    .imagen-pablo{
+    .imagen-martin{
         padding-bottom: 0;
         }
 }
